@@ -61,7 +61,7 @@ ul {
 /* Header börjar */
 header {
   height: 100vh;
-  background: url("./img/background.jpg") center/cover no-repeat; /*den har är background bild*/
+  background: url("img/background.jpg") center/cover no-repeat; /*den har är background bild*/
   position: relative;
 
  
@@ -207,7 +207,7 @@ header * {
 /* Offers Section börjar */
 #offers {
   height: 80vh;
-  background: url("./img/dark\ background.jpg") center center/cover fixed;
+  background: url("img/dark\ background.jpg") center center/cover fixed;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -315,7 +315,7 @@ header * {
 
 /* Daytime section börjar */
 #daytime {
-  background: url("./img/daytime_bg.jpeg") center center/cover fixed no-repeat;
+  background: url("img/daytime_bg.jpeg") center center/cover fixed no-repeat;
   color: #fff;
   text-align: center;
 }
@@ -339,7 +339,7 @@ header * {
 
 /* Gallery section börjar */
 #gallery {
-  background: url("./img/dark\ background.jpg") center center/cover;
+  background: url("img/dark\ background.jpg") center center/cover;
   padding: 8rem 0 6rem;
 }
 #gallery h2 {
